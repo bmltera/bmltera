@@ -1,4 +1,21 @@
-### Hi there! I'm Bill Li 👋
+### Hi there! I'm Bill Li (he/him) 👋
+
+```javascript
+const about = {
+    name: 'Bill Li',
+    experience: {
+        education: 'computer science student @ san jose state university',
+        current: 'software engineer co-op @ ibm',
+    },
+    links: {
+        website: 'https://bmltera.github.io',
+        github: 'https://github.com/bmltera',
+        linkedin: 'https://www.linkedin.com/in/bmltera',
+    },
+    quote: 'failure is not the opposite of success, it is part of success. - william ritter'
+}
+```
+
 
 <!--
 **bmltera/bmltera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
