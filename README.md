@@ -1,11 +1,11 @@
-### Hi there! I'm Bill Li (he/him) 👋
+### Hi there! I'm Bill Li 👋
 
 ```javascript
 const about = {
     name: 'Bill Li',
     experience: {
         education: 'computer science student @ san jose state university',
-        current: 'software engineer co-op @ ibm',
+        former: 'software engineer co-op @ ibm',
     },
     links: {
         website: 'https://bmltera.github.io',
