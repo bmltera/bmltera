@@ -5,6 +5,7 @@ const about = {
     name: 'Bill Li',
     experience: {
         education: 'computer science student @ san jose state university',
+        current: 'software engineer intern @ GN Jabra',
         former: 'software engineer co-op @ ibm',
     },
     links: {
