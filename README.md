@@ -5,8 +5,8 @@ const about = {
     name: 'Bill Li',
     experience: {
         education: 'computer science student @ san jose state university',
-        current: 'software engineer intern @ jabra',
-        former: 'software engineer co-op @ ibm',
+        current: 'software engineer intern @ ibm',
+        former: 'software engineer intern @ jabra',
     },
     links: {
         website: 'https://bmltera.github.io',
